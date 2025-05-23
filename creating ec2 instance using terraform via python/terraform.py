@@ -2,7 +2,7 @@ import subprocess
 import sys
 import time
 
-dir = r"/root/python-with-terraform/pyo/terraform" #enter your link here for tarraform folder 
+dir = r"/root/python-with-terraform/pyo/terraform" #enter path here for tarraform folder 
 
 def terraform_init(dir):
 
